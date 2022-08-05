@@ -1,0 +1,7 @@
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\obj\Debug\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\obj\Debug\BindingLibrary.Android.csproj.AssemblyReference.cache
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\obj\Debug\BindingLibrary.Android.csproj.CoreCompileInputs.cache
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\bin\Debug\BindingLibrary.Android.dll
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\bin\Debug\BindingLibrary.Android.pdb
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\obj\Debug\BindingLibrary.Android.dll
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.Android\obj\Debug\BindingLibrary.Android.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wuMZP2LElCHb4TB0OCFGjP+yMeQf2VF13LckMj/2G4WajXM47dMzaw2YHKrYsrRYDoZfONrHHeRERMCQcg6oTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egome\\source\\repos\\Test.APP\\Test.APP.iOS\\Test.APP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egome\\.nuget\\packages\\fody\\6.6.2\\fody.6.6.2.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\propertychanged.fody\\3.4.1\\propertychanged.fody.3.4.1.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2515\\xamarin.forms.visual.material.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

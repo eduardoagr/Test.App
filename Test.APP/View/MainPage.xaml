@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test.APP.MainPage"
+             xmlns:model="clr-namespace:Test.APP.Model"
+             xmlns:vm="clr-namespace:Test.APP.ViewModel"
+             x:DataType="vm:MainPageViewModel">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout
+        BindableLayout.ItemsSource="{Binding CustomButtons}"
+        HorizontalOptions="CenterAndExpand"
+        VerticalOptions="CenterAndExpand">
+        <BindableLayout.ItemTemplate>
+            <DataTemplate x:DataType="model:CustomButton">
+                <Grid Padding="10" ColumnDefinitions="40,200">
+                    <Label
+                        FontFamily="fa"
+                        FontSize="Large"
+                        Text="{Binding Icon}"
+                        TextColor="{Binding IconColor}"
+                        VerticalTextAlignment="Center" />
+                    <Button
+                        Grid.Column="1"
+                        Command="{Binding Command}"
+                        BackgroundColor="{Binding Color}"
+                        IsEnabled="{Binding IsEnable}"
+                        Text="{Binding Text}" />
+                </Grid>
+            </DataTemplate>
+        </BindableLayout.ItemTemplate>
+    </StackLayout>
+    
+</ContentPage>

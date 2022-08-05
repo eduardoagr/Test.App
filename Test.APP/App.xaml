@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application
+    x:Class="Test.APP.App"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <Application.Resources>
+        <Color x:Key="ButtonColor">#ffff</Color>
+        <Color x:Key="ButtonBrderColor">#000000</Color>
+
+
+        <Style TargetType="Button">
+            <Setter Property="TextColor" Value="{StaticResource ButtonColor}" />
+            <Setter Property="FontAttributes" Value="Bold" />
+            <Setter Property="HeightRequest" Value="60" />
+            <Setter Property="BorderColor" Value="{StaticResource ButtonBrderColor}" />
+            <Setter Property="WidthRequest" Value="200" />
+            <Setter Property="BorderWidth" Value="2" />
+            <Setter Property="CornerRadius" Value="20" />
+        </Style>    
+    </Application.Resources>
+</Application>

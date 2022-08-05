@@ -1,0 +1,17 @@
+C:\Users\egome\source\repos\Test.APP\Test.APP\bin\Debug\netstandard2.0\Test.APP.deps.json
+C:\Users\egome\source\repos\Test.APP\Test.APP\bin\Debug\netstandard2.0\Test.APP.dll
+C:\Users\egome\source\repos\Test.APP\Test.APP\bin\Debug\netstandard2.0\Test.APP.pdb
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.csproj.AssemblyReference.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.AssemblyInfoInputs.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.AssemblyInfo.cs
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.csproj.CoreCompileInputs.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.csproj.Fody.CopyLocal.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.dll
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\refint\Test.APP.dll
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\Test.APP.pdb
+C:\Users\egome\source\repos\Test.APP\Test.APP\obj\Debug\netstandard2.0\ref\Test.APP.dll

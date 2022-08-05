@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    "MonoAndroid,Version=v12.0": {},
+    "MonoAndroid,Version=v12.0/win": {},
+    "MonoAndroid,Version=v12.0/win-x64": {},
+    "MonoAndroid,Version=v12.0/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "MonoAndroid,Version=v12.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\egome\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.Android\\BindingLibrary.Android.csproj",
+      "projectName": "BindingLibrary.Android",
+      "projectPath": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.Android\\BindingLibrary.Android.csproj",
+      "packagesPath": "C:\\Users\\egome\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.Android\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\egome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "monoandroid12.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "monoandroid12.0": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
