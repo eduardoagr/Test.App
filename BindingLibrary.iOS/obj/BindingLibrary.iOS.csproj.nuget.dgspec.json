@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.iOS\\BindingLibrary.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.iOS\\BindingLibrary.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.iOS\\BindingLibrary.iOS.csproj",
+        "projectName": "NativeLibrary",
+        "projectPath": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.iOS\\BindingLibrary.iOS.csproj",
+        "packagesPath": "C:\\Users\\egome\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\egome\\source\\repos\\Test.APP\\BindingLibrary.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\egome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      }
+    }
+  }
+}
