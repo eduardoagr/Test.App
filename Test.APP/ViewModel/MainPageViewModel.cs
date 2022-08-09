@@ -67,10 +67,13 @@ namespace Test.APP.ViewModel
             var NetPermission = await Permissions.CheckStatusAsync<Permissions.NetworkState>();
             var locationPermission = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
 
-            if (NetPermission != PermissionStatus.Granted
-            && locationPermission != PermissionStatus.Granted)
+            if (NetPermission == PermissionStatus.Granted
+            && locationPermission == PermissionStatus.Granted)
             {
-
+                foreach (var item in CustomButtons)
+                {
+                    item.IsEnable = true;
+                }
             }
         }
 
