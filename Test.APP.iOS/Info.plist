@@ -36,5 +36,12 @@
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We need Permission</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>We need Permission</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>We need Permission</string>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string>New Entry</string>
 </dict>
 </plist>

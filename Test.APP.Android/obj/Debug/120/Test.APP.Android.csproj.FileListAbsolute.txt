@@ -669,3 +669,17 @@ C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\stamp\_Conve
 C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\55\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\56\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\63\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\64\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\69\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\70\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\75\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\76\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\80\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\93\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\99\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\100\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\101\jl\files.cache
+C:\Users\egome\source\repos\Test.APP\Test.APP.Android\obj\Debug\120\lp\105\jl\files.cache

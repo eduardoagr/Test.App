@@ -11,6 +11,9 @@ namespace Test.APP.Droid
     [Activity(Label = "Test.APP", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize)]
     public class MainActivity : FormsAppCompatActivity
     {
+        public static MainActivity Instance;
+        public static int RequestCode = 10023;
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -19,6 +22,8 @@ namespace Test.APP.Droid
             Xamarin.Forms.Forms.Init(this, savedInstanceState);
             Xamarin.Forms.FormsMaterial.Init(this, savedInstanceState);
             LoadApplication(new App());
+
+            Instance = this;
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Permission[] grantResults)
         {

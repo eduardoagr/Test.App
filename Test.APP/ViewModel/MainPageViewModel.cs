@@ -4,8 +4,10 @@ using System.Diagnostics;
 using PropertyChanged;
 
 using Test.APP.Fonts;
+using Test.APP.Interfaces;
 using Test.APP.Model;
 
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace Test.APP.ViewModel
@@ -51,7 +53,7 @@ namespace Test.APP.ViewModel
         public MainPageViewModel()
         {
             //Because command are usually used to preform actions, we put action at the end
-            PermissionCommand = new Command(PermissionAction);
+            PermissionCommand = new Command(PermissionActionAsync);
             LockCommand = new Command(lockAction);
             UnlockComand = new Command(UnlockAction);
             QueryCommand = new Command(QueryAction);
@@ -59,9 +61,17 @@ namespace Test.APP.ViewModel
         }
 
         //Is important to follow the same visual representation as our UI
-        private void PermissionAction()
+        private async void PermissionActionAsync()
         {
-            Debug.WriteLine("Permission");
+            var bluePermissions = DependencyService.Get<IBluetoothService>();
+            var NetPermission = await Permissions.CheckStatusAsync<Permissions.NetworkState>();
+            var locationPermission = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
+
+            if (NetPermission != PermissionStatus.Granted
+            && locationPermission != PermissionStatus.Granted)
+            {
+
+            }
         }
 
         private void lockAction()

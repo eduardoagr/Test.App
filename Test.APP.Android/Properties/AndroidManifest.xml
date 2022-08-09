@@ -1,10 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.test.app">
-    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
-    <application android:label="Test.APP.Android" android:theme="@style/MainTheme"></application>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.test.app" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
+	<application android:label="Test.APP.Android" android:theme="@style/MainTheme"></application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+	<uses-permission android:name="android.permission.BLUETOOTH" />
+	<uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+	<uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+	<uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+	<uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+	<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.CONTROL_LOCATION_UPDATES" />
+	<uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER" />
+	<uses-permission android:name="android.permission.LOCATION_HARDWARE" />
 	<uses-feature android:name="android.hardware.location" android:required="false" />
 	<uses-feature android:name="android.hardware.location.gps" android:required="false" />
 	<uses-feature android:name="android.hardware.location.network" android:required="false" />

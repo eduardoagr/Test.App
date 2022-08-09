@@ -1,0 +1,8 @@
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\bin\Debug\NativeLibrary.dll
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\bin\Debug\NativeLibrary.pdb
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\_ProcessedContentPath.items
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\BindingLibrary.iOS.csproj.AssemblyReference.cache
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\BindingLibrary.iOS.csproj.CoreCompileInputs.cache
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\NativeLibrary.dll
+C:\Users\egome\source\repos\Test.APP\BindingLibrary.iOS\obj\Debug\NativeLibrary.pdb
